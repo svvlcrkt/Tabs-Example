@@ -15,7 +15,6 @@ you can also acces my [1st](https://github.com/svvlcrkt/Simple-Color-Flipper), [
 
 ## *Used Resources*
 * *https://www.youtube.com/watch?v=3PHXvlpOkf4&ab_channel=freeCodeCamp.org*
-* 
 ### *PROJECT VİEW:*
  
 #### *1st image:*
